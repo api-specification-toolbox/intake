@@ -1,1 +1,15 @@
-[{"name":"Test Item","details":"This is a test item.","url":"https://www.test.com/"}]
+[
+  {
+    "name": "Test Item",
+    "details": "This is a test item.",
+    "url": "https://www.test.com/"
+  },
+  {
+    "name": "Test Item",
+    "details": "This is a test item.",
+    "url": "https://www.test.com/",
+    "tags": [
+      "GraphQL"
+    ]
+  }
+]
