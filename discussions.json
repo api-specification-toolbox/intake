@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "Access Postman Audit Logs with the Postman API | Postman Blog",
+    "details": "Postman audit logs keep a record of system and user activity. They empower admins of Postman teams to track and review how members of their organization are using the Postman API Platform. For example, an admin can see when a user updated or removed a custom authorization scheme, invited someone to the Postman team, updated user roles, removed users from the team, and much more. You can view all available audit actions or events by visiting our Learning Center page on audit logs. To access your team’s audit logs, visit https://go.postman.co/audit or you can find it under Team Management in your Postman app.",
+    "url": "https://blog.postman.com/access-postman-audit-logs-with-postman-api/",
+    "tags": [
+      "GraphQL"
+    ],
+    "posted": "2022-02-19T04:01:10.634Z"
+  }
+]
